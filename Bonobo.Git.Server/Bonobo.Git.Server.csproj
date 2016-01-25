@@ -629,6 +629,7 @@
     <Content Include="Content\fonts\opensans-regular.ttf" />
     <Content Include="Content\fonts\opensans-regular.woff" />
     <Content Include="App_Data\.gitconfig" />
+    <None Include="Properties\PublishProfiles\Fichier.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <Content Include="Views\Repository\Blob.cshtml" />
     <Content Include="Views\Repository\Clone.cshtml" />

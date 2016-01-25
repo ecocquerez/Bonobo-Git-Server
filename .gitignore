@@ -15,6 +15,10 @@ artifacts
 
 # Various git versions
 Gits/*.*
+#Visual Studio 2015 folders
+.vs/
+#GhostDocs
+*.sln.GhostDocs.xml
 
 # Build results
 [Dd]ebug/
@@ -99,6 +103,8 @@ _TeamCity*
 *.ncrunch*
 _NCrunch_*
 .*crunch*.local.xml
+
+
 
 # MightyMoose
 *.mm.*
